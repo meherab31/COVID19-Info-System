@@ -42,7 +42,7 @@
                    if(!strcmp(c_name, "Europe") || !strcmp(c_name, "europe"))
                     {
                         setfgcolor(light_gray);
-                        printf("\t\Statistics\n");
+                        printf("\tStatistics\n");
                       setfgcolor( light_blue );
                         printf("Continent Name\tCases\n");
                         setfgcolor( initial_fg_color );
