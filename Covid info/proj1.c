@@ -12,7 +12,7 @@
          printf("*** Information Query ***\n\n");
          setfgcolor( initial_fg_color );
          printf("Name: ");
-         scanf("%s", name);
+         gets(name);
          printf("Gender: ");
          scanf("%s", gender);
          printf("Age: ");
